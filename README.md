@@ -46,7 +46,7 @@ Deep Learning for Wildfire Burned Area Segmentation and Spread Prediction
 
 ---
 
-## 📈 4. Progression & Final Segmentation (`29_improvement_2.ipynb`)
+## 📈 4. Next Day Fire Prediction Progression (`29_improvement_2.ipynb`)
 
 - **Framework**: TensorFlow & Keras  
 - **Dataset**: NDWS Western (Next Day Wildfire Spread) in TFRecord  
